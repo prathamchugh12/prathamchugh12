@@ -2,8 +2,8 @@
 <h3 align="center">A Passionate Developer from IIT Delhi</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/your-username?style=social" alt="GitHub followers">
-  <img src="https://img.shields.io/github/stars/your-username?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/followers/prathamchugh12?style=social" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/prathamchugh12?style=social" alt="GitHub stars">
 </p>
 
 ---
@@ -38,14 +38,14 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathamchugh12&show_icons=true&theme=radical" alt="GitHub stats">
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark" alt="GitHub trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=prathamchugh12&theme=onedark" alt="GitHub trophies">
 </p>
 
 ---
