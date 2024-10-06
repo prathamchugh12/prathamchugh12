@@ -11,6 +11,10 @@
 ## 👨‍💻 About Me
 
 - 🌱 I’m currently diving into **Data Structures and Algorithms**  
+- 🤖 I have hands-on experience with **Machine Learning**, including:
+  - Boosting algorithms
+  - Deep Learning & Neural Networks
+  - Convolutional Layers
 - 💻 I have experience working with **Python, C++, Django, CSS, HTML**  
 - 🔍 I’ve done some **web scraping** and worked with **sockets**  
 - 🏫 I’m a 2nd year student at **IIT Delhi**
@@ -28,11 +32,17 @@
 - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
+### Machine Learning & AI
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+- ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 ---
 
 ## 🌱 Currently Learning
 - Data Structures and Algorithms
 - Backend Development
+- Deep Learning Techniques
 
 ---
 
